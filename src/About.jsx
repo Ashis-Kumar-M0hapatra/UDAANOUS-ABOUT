@@ -20,8 +20,8 @@ const About = () => {
           <FaHeart className='text-red-500 text-md' />
         <h6 className='text-lg text-blue-500 font-bold'>Make a difference</h6>
         </div>
-                <h2 className='text-5xl font-bold mb-7'>Let's come together to make a positive impact</h2>
-                <p className='text-gray-700 mb-3 text-lg opacity-70'>
+                <h2 className='text-4xl font-bold mb-7'>Let's come together to make a positive impact</h2>
+                <p className='text-gray-700 mb-3 text-md opacity-70'>
                     Udaanous strongly believes that every person regardless of circumstances must have compassion and care, and a chance to make life fulsome. Our mission lies in reaching out and helping the most vulnerable members of society-those who are variously neglected, abandoned, or forgotten. Our focus is beggars; elderly people shunned by their families; pregnant women in trouble; children with disabilities; and anyone who is in dire need of support. Every day has its own share of people who do not have the basics of food and shelter-and other necessities such as healthcare and emotional support.
                     <br /> <br />
                     Udaanous aims to change it-to provide a way to all those who have nowhere to turn. Its vision is of a world where no one should suffer in silence or be ignored. Such society will have for each person dignity and esteem irrespective of age and condition. It offers primary care to such senior citizens who have been abandoned or neglected to bring them under proper shelter, food, and care. Also, we make provisions for pregnant women experiencing crises, linking them to pre-natal clinics for counseling and medical attention. We provide therapy, education, and care for children with disabilities and enable these children to lead fulfilling lives. We also empower beggars by provision of food and shelter alongside creating rehab opportunities for reintegration into society.
@@ -40,7 +40,7 @@ const About = () => {
                 <div className='max-w-xl'>
                 <h6 className='text-blue-500 font-bold mb-3 text-2xl'>Co-Founder</h6>
                 <h1 className='text-5xl font-bold'>Rashmi Kamalasanan</h1>
-                <p className='text-gray-700 mt-4 text-lg mb-3 opacity-70'>
+                <p className='text-gray-700 mt-4 text-md mb-3 opacity-70'>
                     Udaanous Foundation, a non-profit organization focused on driving meaningful change and empowering underserved communities. Driven by a passion for social impact, Rashmi advocates for sustainable development and believes in creating equal opportunities for all. Her work centers on breaking down barriers of inequality, particularly in education and skill development. She is deeply committed to fostering inclusivity by ensuring that marginalized groups have access to the resources they need to thrive.
                     <br /><br />
                     Through Udaanous Foundation, Rashmi leads initiatives that promote educational access, equip individuals with valuable skills, and help create a more equitable society. She recognizes education as a powerful tool for transforming lives and works to make it accessible to those who need it most. Additionally, Rashmi emphasizes the importance of sustainable development, striving to integrate eco-friendly practices into community projects. Her holistic approach continues to inspire change, aiming for a better, more inclusive future for all.
