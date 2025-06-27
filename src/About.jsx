@@ -35,12 +35,12 @@ const About = () => {
               <img src="Img/gallery-29.png" alt="" className='rounded-xl border-b-8 border-red-300 hover:-translate-y-3 duration-500 z-10 hidden lg:block' />
             </div>
             <div className='bg-gray-100 bg-[url("/Img/lines-2.png")] bg-blend-color-burn bg-cover mb-60'>
-              <div className='flex items-center justify-center mt-24 lg:mt-10 gap-24 px-20 pt-16 pb-5 flex-col lg:flex-row'>
-                <img src="Img/rashmi.jpeg" alt="" className='h-2/4 w-96 rounded-lg' />
-                <div className='max-w-lg'>
+              <div className='flex items-center justify-center mt-24 lg:mt-5 gap-24 px-20 pt-16 pb-5 flex-col lg:flex-row'>
+                <img src="Img/rashmi.jpeg" alt="" className='h-2/4 w-80 rounded-lg' />
+                <div className='max-w-xl'>
                 <h6 className='text-blue-500 font-bold mb-3 text-2xl'>Co-Founder</h6>
                 <h1 className='text-5xl font-bold'>Rashmi Kamalasanan</h1>
-                <p className='text-gray-700 mt-4 text-lg mb-4 opacity-70'>
+                <p className='text-gray-700 mt-4 text-lg mb-3 opacity-70'>
                     Udaanous Foundation, a non-profit organization focused on driving meaningful change and empowering underserved communities. Driven by a passion for social impact, Rashmi advocates for sustainable development and believes in creating equal opportunities for all. Her work centers on breaking down barriers of inequality, particularly in education and skill development. She is deeply committed to fostering inclusivity by ensuring that marginalized groups have access to the resources they need to thrive.
                     <br /><br />
                     Through Udaanous Foundation, Rashmi leads initiatives that promote educational access, equip individuals with valuable skills, and help create a more equitable society. She recognizes education as a powerful tool for transforming lives and works to make it accessible to those who need it most. Additionally, Rashmi emphasizes the importance of sustainable development, striving to integrate eco-friendly practices into community projects. Her holistic approach continues to inspire change, aiming for a better, more inclusive future for all.
