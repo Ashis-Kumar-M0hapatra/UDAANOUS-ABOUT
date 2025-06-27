@@ -5,8 +5,8 @@ import { FaArrowRightToBracket, FaHeart } from "react-icons/fa6";
 const About = () => {
   return (
     <div>
-        <div className='bg-gray-700 text-white p-4 bg-[url("/Img/img.jpg")] bg-blend-multiply bg-cover bg-[center_80%] min-h-96'>
-        <div className='flex items-start md:items-center h-full ml-5 lg:ml-24 mt-40'>
+        <div className='bg-gray-700 text-white p-4 bg-[url("/Img/img.jpg")] bg-blend-multiply bg-cover bg-[center_80%] min-h-56 lg:min-h-96'>
+        <div className='flex items-start md:items-center h-full ml-5 lg:ml-24 mt-10 lg:mt-40'>
             <h1 className='text-5xl lg:text-6xl font-bold'>About Us</h1>
         </div>
         <div className='bg-gray-700 bg-opacity-50 text-lg lg:text-xl p-2 mt-4 rounded-lg w-56 lg:w-60 ml-5 lg:ml-24 flex items-center justify-center'>
